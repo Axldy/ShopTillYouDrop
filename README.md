@@ -23,5 +23,7 @@ For this project we aimed to make everything ourselves, however the character mo
 
 Developers:
 Giles (Level/Game Design): https://www.linkedin.com/in/gileswright/
+
 Leighton (Technical/UI Design): https://www.linkedin.com/in/leightonauld/
+
 Chris (Environment Artist): https://www.linkedin.com/in/chris-pile/ 
