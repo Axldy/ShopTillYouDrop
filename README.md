@@ -22,7 +22,7 @@ S - Move down
 
 D - Move right
 
-'Shift' key - Drop items at drop off point
+'Spacebar' key - Drop items at drop off point
 
 'Escape' key - Pause
 
