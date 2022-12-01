@@ -1,482 +1,586 @@
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 0
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Glass_Mat.uasset" 1
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_AutoDoor.uasset" 2
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_AutoDoor_Mat.uasset" 3
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_GrassFoliage.uasset" 0
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_GrassFoliage_Mat.uasset" 1
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_Grass.uasset" 2
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/sm_Grass.uasset" 3
 "../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Colour_Mat.uasset" 4
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/GreyColour_Mat_Inst.uasset" 5
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_AutoDoorL.uasset" 6
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_AutoDoorL.uasset" 7
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_AutoDoorR.uasset" 8
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_AutoDoorR.uasset" 9
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Colour_Mat_Inst.uasset" 10
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/BrownColour_Mat_Inst_.uasset" 11
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/LightBrownColour_Mat_Inst_.uasset" 12
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/sm_Baguette.uasset" 13
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_Baguette2.uasset" 14
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/YellowColour_Mat_Inst_.uasset" 15
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_BananaPeel.uasset" 16
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_BananaPeel.uasset" 17
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_BasketHandleDown.uasset" 18
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_BasketHandleDown.uasset" 19
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_BasketHandleUp.uasset" 20
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_BasketHandleUp.uasset" 21
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_BasketStand.uasset" 22
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_BasketStand.uasset" 23
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/LightBlackColour_Mat_Inst.uasset" 24
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_BreadStand1.uasset" 25
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_BreadStand1.uasset" 26
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_BreadStand2.uasset" 27
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_BreadStand2.uasset" 28
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/DarkGreyColour_Mat_Inst.uasset" 29
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/GreenColour_Mat_Inst.uasset" 30
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/RedColour_Mat_Inst.uasset" 31
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_CardReader.uasset" 32
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_CardReader.uasset" 33
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_CardStand.uasset" 34
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_CardStand.uasset" 35
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_CustomerServiceDesk.uasset" 36
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_CustomerServiceDesk.uasset" 37
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_CustomerServiceSign.uasset" 38
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_CustomerServiceSign.uasset" 39
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 40
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 41
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 42
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 43
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Freezer.uasset" 44
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_Freezer.uasset" 45
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Fridge.uasset" 46
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_Fridge.uasset" 47
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_FridgeFreezer.uasset" 48
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_FridgeFreezer.uasset" 49
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_FruitandVegStand.uasset" 50
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_FruitandVegStand.uasset" 51
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_TillOnly.uasset" 52
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_TillOnly.uasset" 53
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_WetFloorSign.uasset" 54
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_WetFloorSign_Mat.uasset" 55
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_WetFloorSign.uasset" 56
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_WetFloorSign.uasset" 57
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/BrownColour_Mat_Inst_.uasset" 58
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/Colour_Mat.uasset" 59
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/Colour_Mat_Inst.uasset" 60
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/DarkGreyColour_Mat_Inst.uasset" 61
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/Decal_Water.uasset" 62
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/Decal_Water_Mat.uasset" 63
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/GreyColour_Mat_Inst.uasset" 64
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_CrateWithStand.uasset" 65
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Crate.uasset" 66
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Crate_DM.uasset" 67
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/Supermarket_Floor.uasset" 68
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_ShopTillYouDrop.uasset" 69
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/t_ShopTillYouDrop.uasset" 70
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/t_Supermarket_Floor_BaseColour.uasset" 71
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/t_Supermarket_Floor_Normal.uasset" 72
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/YellowColour_Mat_Inst_.uasset" 73
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Supermarket_Floor_BaseColour.uasset" 74
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Supermarket_Floor_BaseColour__1_.uasset" 75
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Supermarket_Floor_Normal.uasset" 76
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/01_-_Default.uasset" 77
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_AppleJuice.uasset" 78
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_AppleJuice.uasset" 79
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Beans.uasset" 80
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_Beans.uasset" 81
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Milk.uasset" 82
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_Milk.uasset" 83
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_SteakColour.uasset" 84
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_SteakColour.uasset" 85
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/TopDownOverview.uasset" 86
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/01_-_Default.uasset" 87
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/sm_Trolley.uasset" 88
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/sm_ShoppingTrolley.uasset" 89
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/sm_STrolley_Skeleton.uasset" 90
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/sm_STrolley.uasset" 91
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/Trolley.uasset" 92
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/TrolleyBP.uasset" 93
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_sSkeleton.uasset" 94
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/GettingUp.uasset" 95
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/GettingUp_Montage.uasset" 96
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/Getting_Up.uasset" 97
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/wheelbarrow_idle.uasset" 98
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/wheelbarrow_run.uasset" 99
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/wheelbarrow_sprint.uasset" 100
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/wheelbarrow_walk.uasset" 101
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/BS_MovementSpeed.uasset" 102
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/MovementSpeed.uasset" 103
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/Stunned.uasset" 104
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 105
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/Falling_Down.uasset" 106
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/Falling_Down_Montage.uasset" 107
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Gameplay/BPI_Interact.uasset" 108
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Gameplay/Hazards/BP_BananaPeel.uasset" 109
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/T_Polygon_City_Characters_01_A.uasset" 110
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Materials/Mat_Polygon_City_Char_01.uasset" 111
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 112
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 113
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/M_Cursor_Decal.uasset" 114
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_GamerGirl_Physics.uasset" 115
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_GamerGirl.uasset" 116
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/sm_ShoppingTrolley2.uasset" 117
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Fonts/7SEGMENTALDIGITALDISPLAY.uasset" 118
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Fonts/7SEGMENTALDIGITALDISPLAY_Font.uasset" 119
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 120
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/M_RadialProgressBar.uasset" 121
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/M_RadialProgressBar_Inst.uasset" 122
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Arrow.uasset" 123
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_PaperBag.uasset" 124
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_Scale.uasset" 125
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_Trolley.uasset" 126
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Clock.uasset" 127
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/TimerCircle.uasset" 128
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/w_HUD.uasset" 129
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/ShopTillYaDropPawn.uasset" 130
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/ShopAnimBlueprint.uasset" 131
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/NewAnimBlueprint.uasset" 132
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/wheelbarrow_walk_turn.uasset" 133
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Biker.uasset" 134
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_FastFoodGuy.uasset" 135
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_FireFighter.uasset" 136
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_HipsterGuy.uasset" 137
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_PhysicsAsset.uasset" 138
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_PunkGuy.uasset" 139
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Roadworker.uasset" 140
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/T_Polygon_City_Characters_04_A.uasset" 141
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Materials/Mat_Polygon_City_Char_04.uasset" 142
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Tourist_Physics.uasset" 143
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Tourist.uasset" 144
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Maps/Overview_BuiltData.uasset" 145
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/Alts/T_Polygon_City_Characters_01_B.uasset" 146
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/Alts/T_Polygon_City_Characters_01_C.uasset" 147
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/Alts/T_Polygon_City_Characters_02_B.uasset" 148
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/Alts/T_Polygon_City_Characters_02_C.uasset" 149
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/Alts/T_Polygon_City_Characters_03_B.uasset" 150
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/Alts/T_Polygon_City_Characters_03_C.uasset" 151
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/Alts/T_Polygon_City_Characters_04_B.uasset" 152
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/Alts/T_Polygon_City_Characters_04_C.uasset" 153
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/Spawn/ClothesStoreAreas.uasset" 154
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/Spawn/GameStoreAreas.uasset" 155
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/Spawn/MapAreas.uasset" 156
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/Spawn/SupermarketAreas.uasset" 157
-"../../../Engine/Content/BasicShapes/Plane.uasset" 158
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Gameplay/Hazards/BP_Hazard_WetFloor.uasset" 159
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/ItemMaterial.uasset" 160
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/ItemMaterial_Inst1.uasset" 161
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/ItemMaterial_Inst2.uasset" 162
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/NoSpawnLocation.uasset" 163
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/HUD.uasset" 164
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/w_ItemIndicator.uasset" 165
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/ItemIndicator.uasset" 166
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/NewMaterial.uasset" 167
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_AisleSign.uasset" 168
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/AisleSign.uasset" 169
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_Aisle_Sign_Button.uasset" 170
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Aisle_Sign_Button.uasset" 171
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_BottomBorderAisleSign.uasset" 172
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/BottomBorderAisleSign.uasset" 173
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_TopArchAisleSign.uasset" 174
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/TopArchAisleSign.uasset" 175
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 176
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 177
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 178
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 179
-"../../../Engine/Content/EngineMaterials/NewBaseFlattenMaterial.uasset" 180
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Geometry/Meshes/M_1M_Cube_Supermarket_Floor_0CA7E90C41A139B878EBB5ACABEA701A.uasset" 181
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Geometry/Meshes/CubeMaterial.uasset" 182
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Geometry/Meshes/TemplateFloor.uasset" 183
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 184
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 185
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 186
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 187
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 188
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 189
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPersonRun.uasset" 190
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 191
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 192
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 193
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 194
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 195
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 196
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 197
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 198
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 199
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 200
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 201
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 202
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 203
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 204
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 205
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 206
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 207
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 208
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 209
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 210
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 211
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 212
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 213
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 214
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 215
-"../../../Engine/Content/BasicShapes/Cone.uasset" 216
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 217
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 218
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 219
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 220
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 221
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 222
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 223
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 224
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 225
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 226
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 227
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 228
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 229
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 230
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 231
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 232
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 233
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 234
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 235
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 236
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 237
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 238
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 239
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 240
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 241
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 242
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 243
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 244
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 245
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 246
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 247
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 248
-"../../../Engine/Content/EditorResources/S_Note.uasset" 249
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 250
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 251
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 252
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 253
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 254
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 255
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 256
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 257
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 258
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 259
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 260
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 261
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 262
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 263
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 264
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 265
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 266
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 267
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 268
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 269
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 270
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 271
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 272
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 273
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 274
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 275
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 276
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 277
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 278
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 279
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 280
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 281
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 282
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 283
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 284
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 285
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 286
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 287
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 288
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 289
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 290
-"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 291
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 292
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 293
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 294
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 295
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 296
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 297
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 298
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 299
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 300
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 301
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 302
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 303
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 304
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 305
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 306
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 307
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 308
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 309
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 310
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 311
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 312
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 313
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 314
-"../../../Engine/Content/EngineResources/Black.uasset" 315
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 316
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 317
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 318
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 319
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 320
-"../../../Engine/Content/EngineSounds/Master.uasset" 321
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 322
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 323
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 324
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 325
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 326
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 327
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 328
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 329
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 330
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 331
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 332
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 333
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 334
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 335
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 336
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 337
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 338
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 339
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 340
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 341
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 342
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 343
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 344
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 345
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 346
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 347
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 348
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 349
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 350
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 351
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 352
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 353
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 354
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 355
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 356
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 357
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 358
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 359
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 360
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 361
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 362
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 363
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 364
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 365
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 366
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 367
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 368
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 369
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 370
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 371
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 372
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 373
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 374
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 375
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 376
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 377
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 378
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 379
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 380
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/wheelbarrow_walk_Slow.uasset" 381
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/AIAnim_IdleShopper.uasset" 382
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/T_Polygon_City_Characters_02_A.uasset" 383
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Materials/Mat_Polygon_City_Char_02.uasset" 384
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/T_Polygon_City_Characters_03_A.uasset" 385
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Materials/Mat_Polygon_City_Char_03.uasset" 386
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Hotdog_Physics.uasset" 387
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Hotdog.uasset" 388
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/IdleShopper/IdleShopper_AI.uasset" 389
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/AIAnim.uasset" 390
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/BasicAI_Controller.uasset" 391
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 392
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Gangster.uasset" 393
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/BaseAI.uasset" 394
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/BP_Spline.uasset" 395
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/ShopTillYaDropController.uasset" 396
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/StarAmounts.uasset" 397
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/ShopNames.uasset" 398
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/w_Countdown.uasset" 399
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t-StarYellow.uasset" 400
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t-StarYellowDark.uasset" 401
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_Receipt.uasset" 402
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_StarEmpty.uasset" 403
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_StarGrey.uasset" 404
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/w_EndScreen.uasset" 405
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/ShopTillYaDropGamemode.uasset" 406
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/Spawn/HazardSpawner.uasset" 407
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_Beans_Mat.uasset" 408
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_Beans_Mat.uasset" 409
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/sm_Can.uasset" 410
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/ShoppingItem_Base.uasset" 411
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/ShoppingItem_Supermarket.uasset" 412
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/Spawn/ObjectiveItemSpawner.uasset" 413
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/Game_Manager.uasset" 414
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/Checkout.uasset" 415
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Checkout_Mat.uasset" 416
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Till2.uasset" 417
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Gameplay/BP_DropOffPoint.uasset" 418
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/Decal_Water.uasset" 419
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Decal_Water_Mat.uasset" 420
-"../../../Engine/Content/BasicShapes/Cube.uasset" 421
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Gameplay/Hazards/BP_SlipperyFloor.uasset" 422
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Supermarket_Floor_AO.uasset" 423
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Supermarket_Floor_BaseColour2.uasset" 424
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Supermarket_Floor_Normal__1_.uasset" 425
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Supermarket_Floor_Roughness.uasset" 426
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Supermarket_Floor.uasset" 427
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/ItemMaterial_Inst.uasset" 428
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_CrateStand.uasset" 429
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_ModShelves1.uasset" 430
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_ModShelves2.uasset" 431
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_ModShelves3.uasset" 432
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_AppleJuice_Mat.uasset" 433
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_AppleJuice_Mat.uasset" 434
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/sm_Carton.uasset" 435
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_Milk_Mat.uasset" 436
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_Milk_Mat.uasset" 437
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/sm_Carton1.uasset" 438
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_SteakColour_Mat.uasset" 439
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_SteakColour_Mat.uasset" 440
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/sm_Steak.uasset" 441
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Grandma.uasset" 442
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_HipsterGirl.uasset" 443
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Hobo.uasset" 444
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Jock.uasset" 445
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Paramedic.uasset" 446
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_PunkGirl.uasset" 447
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_ShopKeeper.uasset" 448
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_SummerGirl.uasset" 449
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Geometry/Meshes/1M_Cube.uasset" 450
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 451
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/CornerStore_Map.umap" 452
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/MainMenuGamemode.uasset" 453
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_MainMenuBG.uasset" 454
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/w_StartScreen.uasset" 455
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/MainMenu.umap" 456
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Till.uasset" 457
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/MoneySavingStore_Map.umap" 458
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/IdleShopper/IdleWorker_AI.uasset" 459
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_ShopTillYouDrop_Mat.uasset" 460
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sign_plane.uasset" 461
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/BlueColour_Mat_Inst.uasset" 462
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/WhiteColour_Mat_Inst.uasset" 463
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/sm_Shelf_1.uasset" 464
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/shelf1_items_BP.uasset" 465
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/sm_Shelf_2.uasset" 466
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/shelf2_items_BP.uasset" 467
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/sm_Shelf_3.uasset" 468
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/shelf3_items_BP.uasset" 469
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/sm_Shelf_4.uasset" 470
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/shelf4_items_BP.uasset" 471
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/Supermarket_Map_BuiltData.uasset" 472
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Centre_Display_NoCrates.uasset" 473
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/Supermarket_Map.umap" 474
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/Spawn/ItemSpawner.uasset" 475
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/TestMap_BuiltData.uasset" 476
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Grandpa_Physics.uasset" 477
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Grandpa.uasset" 478
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/TestMap.umap" 479
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 480
-"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Maps/Overview.umap" 481
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Colour_Mat_Inst.uasset" 5
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/BrownColour_Mat_Inst_.uasset" 6
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/GreenColour_Mat_Inst.uasset" 7
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/MidGreenColour_Mat_Inst.uasset" 8
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/GreenApple.uasset" 9
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/GreenApple.uasset" 10
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/YellowColour_Mat_Inst.uasset" 11
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/Lemon.uasset" 12
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Lemon.uasset" 13
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/LimeGreenColour_Mat_Inst.uasset" 14
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/Lime.uasset" 15
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Lime.uasset" 16
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Wall_AO.uasset" 17
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Wall_BaseColour.uasset" 18
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Wall_Normal.uasset" 19
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Wall_Roughness.uasset" 20
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/MAT_Wall.uasset" 21
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/MAT_Wall.uasset" 22
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/LightBlackColour_Mat_Inst.uasset" 23
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/OrangeColour_Mat_Inst.uasset" 24
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/Orange.uasset" 25
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Orange.uasset" 26
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/LightGreenColour_Mat_Inst.uasset" 27
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/Pear.uasset" 28
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Pear.uasset" 29
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/RedColour_Mat_Inst.uasset" 30
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/RedApple.uasset" 31
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/RedApple.uasset" 32
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 33
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Glass_Mat.uasset" 34
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_AutoDoor.uasset" 35
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_AutoDoor_Mat.uasset" 36
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/GreyColour_Mat_Inst.uasset" 37
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_AutoDoorL.uasset" 38
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_AutoDoorL.uasset" 39
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_AutoDoorR.uasset" 40
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_AutoDoorR.uasset" 41
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/LightBrownColour_Mat_Inst_.uasset" 42
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/sm_Baguette.uasset" 43
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_Baguette2.uasset" 44
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_BananaPeel.uasset" 45
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_BananaPeel.uasset" 46
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_BasketHandleDown.uasset" 47
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_BasketHandleDown.uasset" 48
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_BasketHandleUp.uasset" 49
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_BasketHandleUp.uasset" 50
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_BasketStand.uasset" 51
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_BasketStand.uasset" 52
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_BreadStand1.uasset" 53
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_BreadStand1.uasset" 54
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_BreadStand2.uasset" 55
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_BreadStand2.uasset" 56
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/DarkGreyColour_Mat_Inst.uasset" 57
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_CardReader.uasset" 58
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_CardReader.uasset" 59
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_CardStand.uasset" 60
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_CardStand.uasset" 61
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_CustomerServiceDesk.uasset" 62
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_CustomerServiceDesk.uasset" 63
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_CustomerServiceSign.uasset" 64
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_CustomerServiceSign.uasset" 65
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 66
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 67
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 68
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 69
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Freezer.uasset" 70
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_Freezer.uasset" 71
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Fridge.uasset" 72
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_Fridge.uasset" 73
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_FridgeFreezer.uasset" 74
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_FridgeFreezer.uasset" 75
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_FruitandVegStand.uasset" 76
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_FruitandVegStand.uasset" 77
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_TillOnly.uasset" 78
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_TillOnly.uasset" 79
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_WetFloorSign.uasset" 80
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_WetFloorSign_Mat.uasset" 81
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_WetFloorSign.uasset" 82
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/sm_WetFloorSign.uasset" 83
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/BrownColour_Mat_Inst_.uasset" 84
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/Colour_Mat.uasset" 85
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/Colour_Mat_Inst.uasset" 86
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/DarkGreyColour_Mat_Inst.uasset" 87
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/Decal_Water.uasset" 88
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/Decal_Water_Mat.uasset" 89
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/GreyColour_Mat_Inst.uasset" 90
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/LightGreyColour_Mat_Inst.uasset" 91
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/MidGreyColour_Mat_Inst.uasset" 92
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_RoadCorner1.uasset" 93
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_RoadCorner1.uasset" 94
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_RoadCorner2.uasset" 95
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_RoadCorner2.uasset" 96
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_RoadEdge.uasset" 97
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_RoadEdge.uasset" 98
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_RoadMiddle.uasset" 99
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_RoadMiddle.uasset" 100
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/Supermarket_Floor.uasset" 101
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_ShopTillYouDrop.uasset" 102
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/t_ShopTillYouDrop.uasset" 103
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/t_Supermarket_Floor_BaseColour.uasset" 104
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/t_Supermarket_Floor_Normal.uasset" 105
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/YellowColour_Mat_Inst_.uasset" 106
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/YellowColour_Mat_Inst_.uasset" 107
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_AppleJuice.uasset" 108
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_AppleJuice.uasset" 109
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Beans.uasset" 110
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_Beans.uasset" 111
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_Beans_Mat.uasset" 112
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_Beans_Mat.uasset" 113
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Milk.uasset" 114
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_Milk.uasset" 115
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_Milk_Mat.uasset" 116
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_Milk_Mat.uasset" 117
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_SteakColour.uasset" 118
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_SteakColour.uasset" 119
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/01_-_Default.uasset" 120
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/sm_Trolley.uasset" 121
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/sm_ShoppingTrolley.uasset" 122
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/sm_STrolley_Skeleton.uasset" 123
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_sSkeleton.uasset" 124
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/GettingUp.uasset" 125
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/wheelbarrow_idle.uasset" 126
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/wheelbarrow_run.uasset" 127
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/wheelbarrow_sprint.uasset" 128
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/wheelbarrow_walk.uasset" 129
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/BS_MovementSpeed.uasset" 130
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/MovementSpeed.uasset" 131
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/Stunned.uasset" 132
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 133
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/Falling_Down.uasset" 134
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/Falling_Down_Montage.uasset" 135
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Gameplay/BPI_Interact.uasset" 136
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Gameplay/Hazards/BP_BananaPeel.uasset" 137
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/T_Polygon_City_Characters_01_A.uasset" 138
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Materials/Mat_Polygon_City_Char_01.uasset" 139
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 140
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 141
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/M_Cursor_Decal.uasset" 142
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_AppleJuice_Mat.uasset" 143
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_SteakColour_Mat.uasset" 144
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/sm_TrolleyItems2.uasset" 145
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/01_-_Default.uasset" 146
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/sm_TrolleyItems3.uasset" 147
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/sm_TrolleyItems_1.uasset" 148
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_GamerGirl_Physics.uasset" 149
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_GamerGirl.uasset" 150
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/sm_ShoppingTrolley2.uasset" 151
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Fonts/7SEGMENTALDIGITALDISPLAY.uasset" 152
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Fonts/7SEGMENTALDIGITALDISPLAY_Font.uasset" 153
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Fonts/built_titling_bd_it.uasset" 154
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Fonts/built_titling_bd_it_Font.uasset" 155
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 156
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/M_RadialProgressBar1.uasset" 157
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/M_RadialProgressBar1_Inst.uasset" 158
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/M_RadialProgressBar1_Inst1.uasset" 159
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/M_RadialProgressBar.uasset" 160
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/M_RadialProgressBar_Inst.uasset" 161
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/M_RadialProgressBarBehind.uasset" 162
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Clock.uasset" 163
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/ItemBundle.uasset" 164
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Lightning.uasset" 165
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_Arrow.uasset" 166
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_ControlInv.uasset" 167
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_PaperBag.uasset" 168
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_Scale.uasset" 169
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_Till.uasset" 170
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_TrolleyNew.uasset" 171
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/TimerCircle.uasset" 172
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/202530__kalisemorrison__scanner-beep.uasset" 173
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/Music.uasset" 174
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/Master.uasset" 175
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/SFX.uasset" 176
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/202530__kalisemorrison__scanner-beep_Cue.uasset" 177
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/571629__ugila__item-pickup.uasset" 178
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/571629__ugila__item-pickup_Cue.uasset" 179
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/w_HUD.uasset" 180
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/416838__tonsil5__grunt2-death-pain.uasset" 181
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/416838__tonsil5__grunt2-death-pain_Cue.uasset" 182
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/SLIP1.uasset" 183
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/SLIP1_Cue.uasset" 184
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/ShopTillYaDropPawn.uasset" 185
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/ShopAnimBlueprint.uasset" 186
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/NewAnimBlueprint.uasset" 187
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_FastFoodGuy.uasset" 188
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/T_Polygon_City_Characters_04_A.uasset" 189
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Materials/Mat_Polygon_City_Char_04.uasset" 190
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Tourist_Physics.uasset" 191
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Tourist.uasset" 192
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Maps/Overview_BuiltData.uasset" 193
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/Spawn/MapAreas.uasset" 194
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/Spawn/SupermarketAreas.uasset" 195
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Clock.uasset" 196
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/HUD.uasset" 197
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/w_ItemIndicator.uasset" 198
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/ItemIndicator.uasset" 199
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_AisleSign.uasset" 200
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/AisleSign.uasset" 201
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_Aisle_Sign_Button.uasset" 202
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Aisle_Sign_Button.uasset" 203
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Arrow.uasset" 204
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_BottomBorderAisleSign.uasset" 205
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/BottomBorderAisleSign.uasset" 206
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_TopArchAisleSign.uasset" 207
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/TopArchAisleSign.uasset" 208
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 209
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 210
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 211
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 212
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPersonRun.uasset" 213
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 214
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 215
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 216
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 217
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 218
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 219
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 220
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 221
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 222
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 223
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 224
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 225
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 226
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 227
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 228
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 229
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 230
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 231
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 232
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 233
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 234
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 235
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 236
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 237
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 238
+"../../../Engine/Content/BasicShapes/Cone.uasset" 239
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 240
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 241
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 242
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 243
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 244
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 245
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 246
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 247
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 248
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 249
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 250
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 251
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 252
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 253
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 254
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 255
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 256
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 257
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 258
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 259
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 260
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 261
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 262
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 263
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 264
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 265
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 266
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 267
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 268
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 269
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 270
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 271
+"../../../Engine/Content/EditorResources/S_Note.uasset" 272
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 273
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 274
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 275
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 276
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 277
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 278
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 279
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 280
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 281
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 282
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 283
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 284
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 285
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 286
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 287
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 288
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 289
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 290
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 291
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 292
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 293
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 294
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 295
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 296
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 297
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 298
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 299
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 300
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 301
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 302
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 303
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 304
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 305
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 306
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 307
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 308
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 309
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 310
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 311
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 312
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 313
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 314
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 315
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 316
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 317
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 318
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 319
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 320
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 321
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 322
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 323
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 324
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 325
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 326
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 327
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 328
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 329
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 330
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 331
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 332
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 333
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 334
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 335
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 336
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 337
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 338
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 339
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 340
+"../../../Engine/Content/EngineResources/Black.uasset" 341
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 342
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 343
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 344
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 345
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 346
+"../../../Engine/Content/EngineSounds/Master.uasset" 347
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 348
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 349
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 350
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 351
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 352
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 353
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 354
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 355
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 356
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 357
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 358
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 359
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 360
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 361
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 362
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 363
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 364
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 365
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 366
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 367
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 368
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 369
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 370
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 371
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 372
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 373
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 374
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 375
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 376
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 377
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 378
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 379
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 380
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 381
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 382
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 383
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 384
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 385
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 386
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 387
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 388
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 389
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 390
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 391
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 392
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 393
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 394
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 395
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 396
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 397
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/Animations/wheelbarrow_walk_Slow.uasset" 398
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/AIAnim.uasset" 399
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/BP_Spline.uasset" 400
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/BasicAI_Controller.uasset" 401
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 402
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/T_Polygon_City_Characters_02_A.uasset" 403
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Materials/Mat_Polygon_City_Char_02.uasset" 404
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Textures/T_Polygon_City_Characters_03_A.uasset" 405
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Materials/Mat_Polygon_City_Char_03.uasset" 406
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Gangster.uasset" 407
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/538066__stevielematt__boings-jews-harp.uasset" 408
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/538066__stevielematt__boings-jews-harp_Cue.uasset" 409
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/BaseAI.uasset" 410
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/AIAnim_IdleShopper.uasset" 411
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Hotdog_Physics.uasset" 412
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Hotdog.uasset" 413
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/IdleShopper/IdleShopper_AI.uasset" 414
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_ShopKeeper.uasset" 415
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/IdleShopper/IdleWorker_AI.uasset" 416
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/AIAnim_LeftAndRightShopper.uasset" 417
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/IdleShopper/LeftAndRightShopper_AI.uasset" 418
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/AIAnim_UpAndDownShopper.uasset" 419
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/AI/IdleShopper/UpAndDownShopper_AI.uasset" 420
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 421
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 422
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 423
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 424
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 425
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 426
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 427
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 428
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 429
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/BlueColour_Mat_Inst.uasset" 430
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/WhiteColour_Mat_Inst.uasset" 431
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/sm_Shelf_1.uasset" 432
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/shelf1_items_BP.uasset" 433
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/sm_Shelf_2.uasset" 434
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/shelf2_items_BP.uasset" 435
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/sm_Shelf_3.uasset" 436
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/shelf3_items_BP.uasset" 437
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/sm_Shelf_4.uasset" 438
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/ShelfItems/shelf4_items_BP.uasset" 439
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/NewLevel.uasset" 440
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/w_LevelUnlocked.uasset" 441
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/ShoppingGameInstance.uasset" 442
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Fonts/built_titling_bd.uasset" 443
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Fonts/built_titling_bd_Font.uasset" 444
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Mute.uasset" 445
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/MuteHovered.uasset" 446
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Unmute.uasset" 447
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/UnmuteHovered.uasset" 448
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/531851__tissman__menu-click-2.uasset" 449
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/531851__tissman__menu-click-2_Cue.uasset" 450
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/MySoundMix.uasset" 451
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/w_Pause.uasset" 452
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/ShopTillYaDropController.uasset" 453
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/StarAmounts.uasset" 454
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/ShopNames.uasset" 455
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_ControlsandHowtoPlay.uasset" 456
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/462873__melihucar__waiting-for.uasset" 457
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/462873__melihucar__waiting-for_Cue.uasset" 458
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/w_ControlsAndHowTo.uasset" 459
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/546602__nxrt__arcade-countdown.uasset" 460
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/546602__nxrt__arcade-countdown_Cue.uasset" 461
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/w_Countdown.uasset" 462
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Fonts/Merchant_Copy_Doublesize.uasset" 463
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/Fonts/Merchant_Copy_Doublesize_Font.uasset" 464
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/BarcodeHovered.uasset" 465
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/BarcodeNormal.uasset" 466
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/BarcodePressed.uasset" 467
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t-StarYellow.uasset" 468
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t-StarYellowDark.uasset" 469
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_Receipt.uasset" 470
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_StarEmpty.uasset" 471
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_StarGrey.uasset" 472
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/w_EndScreen.uasset" 473
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/173016__ninebilly__supermarket.uasset" 474
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/173016__ninebilly__supermarket_Cue.uasset" 475
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/BackgroundMusic1.uasset" 476
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/BackgroundMusic1_Cue.uasset" 477
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/ShopTillYaDropGamemode.uasset" 478
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/Spawn/HazardSpawner.uasset" 479
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_Watchface.uasset" 480
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_Watchface_Mat.uasset" 481
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Stopwatch.uasset" 482
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/PickUp_Base.uasset" 483
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/ItemMaterial.uasset" 484
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/ItemMaterial_Inst1.uasset" 485
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Lightning_Bolt.uasset" 486
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/328120__kianda__powerup.uasset" 487
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/328120__kianda__powerup_Cue.uasset" 488
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/PickUp_SpeedBoost.uasset" 489
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/171043__st303__mechanical-alarm-clock-is-ticking-slava.uasset" 490
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/171043__st303__mechanical-alarm-clock-is-ticking-slava_Cue.uasset" 491
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/PickUp_Timer.uasset" 492
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/sm_Can.uasset" 493
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/545238__mr-fritz__item-sparkle.uasset" 494
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/545238__mr-fritz__item-sparkle_Cue.uasset" 495
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/ShoppingItem_Base.uasset" 496
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/ShoppingItem_Supermarket.uasset" 497
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/Spawn/ObjectiveItemSpawner.uasset" 498
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/Game_Manager.uasset" 499
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/Checkout.uasset" 500
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Checkout_Mat.uasset" 501
+"../../../Engine/Content/BasicShapes/Plane.uasset" 502
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Till2.uasset" 503
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Gameplay/BP_DropOffPoint.uasset" 504
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/Decal_Water.uasset" 505
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Decal_Water_Mat.uasset" 506
+"../../../Engine/Content/BasicShapes/Cube.uasset" 507
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Gameplay/Hazards/BP_SlipperyFloor.uasset" 508
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/CornerStore_Map_BuiltData.uasset" 509
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Supermarket_Floor_AO.uasset" 510
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Supermarket_Floor_BaseColour2.uasset" 511
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Supermarket_Floor_Normal__1_.uasset" 512
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Textures/t_Supermarket_Floor_Roughness.uasset" 513
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/Supermarket_Floor.uasset" 514
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/t_Grass_AO.uasset" 515
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/t_Grass_basecolor.uasset" 516
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/t_Grass_normal.uasset" 517
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/t_Grass_roughness.uasset" 518
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/t_Grass_basecolor_Mat.uasset" 519
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/CreamColour_Mat_Inst.uasset" 520
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/LightCreamColour_Mat_Inst.uasset" 521
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 522
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Crate.uasset" 523
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_CrateStand.uasset" 524
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_DisplayStand.uasset" 525
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_ModShelves1.uasset" 526
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_ModShelves2.uasset" 527
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_ModShelves3.uasset" 528
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_AudiR8.uasset" 529
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_Bike.uasset" 530
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_Bollard1.uasset" 531
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_BusShelter.uasset" 532
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/DarkBlueColour_Mat_Inst.uasset" 533
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_DeliveryTruck.uasset" 534
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_FireHydrant.uasset" 535
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_OutsideBin.uasset" 536
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_PoliceMustang.uasset" 537
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_RoadSign_Square.uasset" 538
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_StreetLamp.uasset" 539
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_Taxi.uasset" 540
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_AppleJuice_Mat.uasset" 541
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/sm_Carton.uasset" 542
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/sm_Carton1.uasset" 543
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/t_SteakColour_Mat.uasset" 544
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Supermarket/sm_Steak.uasset" 545
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Grandma.uasset" 546
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_HipsterGirl.uasset" 547
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Hobo_Physics.uasset" 548
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Hobo.uasset" 549
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Jock.uasset" 550
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Paramedic.uasset" 551
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_PunkGirl.uasset" 552
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_SummerGirl.uasset" 553
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/CornerStore_Map.umap" 554
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/MainMenuGamemode.uasset" 555
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/MainMenu_BuiltData.uasset" 556
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/Assets/t_MainMenuBG.uasset" 557
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/60013__qubodup__whoosh.uasset" 558
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Sounds/60013__qubodup__whoosh_Cue.uasset" 559
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/UI/w_StartScreen.uasset" 560
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/MainMenu.umap" 561
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/MoneySavingStore_Map_BuiltData.uasset" 562
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Till.uasset" 563
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_Bollard2.uasset" 564
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/MoneySavingStore_Map.umap" 565
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/Materials/t_ShopTillYouDrop_Mat.uasset" 566
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sign_plane.uasset" 567
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/Supermarket_Map_BuiltData.uasset" 568
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/SpawnItems/ItemMaterial_Inst.uasset" 569
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Bucket.uasset" 570
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Centre_Display_NoCrates.uasset" 571
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/General/sm_Mop.uasset" 572
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_RoadSign_Circle.uasset" 573
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Assets/OutsideAssets/sm_RoadSign_Triangle.uasset" 574
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Geometry/Meshes/CubeMaterial.uasset" 575
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 576
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/Supermarket_Map.umap" 577
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/GameControl/Spawn/ItemSpawner.uasset" 578
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/TestMap_BuiltData.uasset" 579
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Grandpa_Physics.uasset" 580
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Characters/SK_Character_Grandpa.uasset" 581
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Geometry/Meshes/1M_Cube.uasset" 582
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Maps/TestMap.umap" 583
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 584
+"../../../../../../Users/auldl/OneDrive/Documents/Unreal Projects/ShopTillYaDrop/Content/Blueprints/Character/CharacterModels/PolygonCityChar/Maps/Overview.umap" 585
